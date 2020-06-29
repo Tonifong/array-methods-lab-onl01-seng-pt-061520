@@ -1,7 +1,6 @@
 def using_include(array, element)
 array.include?(element)
 end
-require 'pry'
 def using_sort(array)
 array.sort
 end
@@ -20,4 +19,5 @@ end
 
 def using_size(array)
 array.size
+
 end
